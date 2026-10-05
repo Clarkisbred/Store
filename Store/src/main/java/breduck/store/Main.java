@@ -55,6 +55,7 @@ public class Main extends JFrame{
         add(BOTTOMBAR, BorderLayout.SOUTH);
         
         setStoreUp();
+        setVisible(true);
     }
     
     public static void setStoreUp(){

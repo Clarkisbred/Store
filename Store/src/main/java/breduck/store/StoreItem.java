@@ -14,7 +14,7 @@ import java.awt.event.*;
  */
 public class StoreItem extends JPanel{
     public static final Color BG = Color.decode("#31AAA9");
-    public static final Color HBG = Color.decode("#F6EOA4");
+    public static final Color HBG = Color.decode("#F6E0A4");
     
     public StoreItem(String name, int price){
         setPreferredSize(new Dimension(150, 150));
